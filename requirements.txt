@@ -1,0 +1,16 @@
+pandas
+openpyxl
+ipykernel
+numpy
+matplotlib
+scikit-learn
+seaborn
+requests
+flask
+sqlalchemy
+pytest
+beautifulsoup4
+lxml
+jupyterlab
+notebook    
+plotly

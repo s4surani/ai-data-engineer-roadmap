@@ -1,0 +1,370 @@
+# ===============================================
+# Enhanced .gitignore for AI/Data Engineer Projects
+# ===============================================
+
+# ===============================================
+# Python
+# ===============================================
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ===============================================
+# PyInstaller
+# ===============================================
+*.manifest
+*.spec
+
+# ===============================================
+# Installer logs
+# ===============================================
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ===============================================
+# Unit test / coverage reports
+# ===============================================
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# ===============================================
+# Jupyter Notebook
+# ===============================================
+.ipynb_checkpoints
+
+# ===============================================
+# IPython
+# ===============================================
+profile_default/
+ipython_config.py
+
+# ===============================================
+# pyenv
+# ===============================================
+.python-version
+
+# ===============================================
+# pipenv
+# ===============================================
+Pipfile.lock
+
+# ===============================================
+# poetry
+# ===============================================
+poetry.lock
+
+# ===============================================
+# pdm
+# ===============================================
+.pdm.toml
+
+# ===============================================
+# PEP 582
+# ===============================================
+__pypackages__/
+
+# ===============================================
+# Celery
+# ===============================================
+celerybeat-schedule
+celerybeat.pid
+
+# ===============================================
+# SageMath parsed files
+# ===============================================
+*.sage.py
+
+# ===============================================
+# Environments
+# ===============================================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*
+.envrc
+.venv*
+env/
+venv/
+ENV/
+env/
+
+# ===============================================
+# Secrets & Keys (CRITICAL SECURITY)
+# ===============================================
+# API Keys and Tokens
+*.key
+*.pem
+*.p12
+*.pfx
+api-keys.txt
+secrets.txt
+.token
+.api-key
+.secrets
+secrets.json
+secrets.yaml
+secrets.yml
+secrets.xml
+secrets.ini
+.env.secrets
+
+# Password files
+*.password*
+*password*
+*.passwd*
+.passwd*
+.pwd
+.passwords
+
+# Private keys and certificates
+*.private.key
+*.private.pem
+*.private.crt
+*.private.der
+id_rsa*
+id_dsa*
+id_ecdsa*
+id_ed25519*
+*.p12
+*.pfx
+*.keystore
+*.jks
+
+# AWS credentials
+.aws/
+aws-credentials
+.aws-credentials
+.credentials.aws
+
+# Database credentials
+db-password.txt
+database-password.txt
+db-credentials.txt
+db_url.txt
+DATABASE_URL.txt
+
+# ===============================================
+# Configuration Files with Secrets
+# ===============================================
+config.ini
+config.local.ini
+config.secrets.ini
+settings.local.py
+settings.secrets.py
+local_settings.py
+secrets.py
+
+# ===============================================
+# Development & IDEs
+# ===============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+.metadata/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*.swn
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+Session.vim
+.netrwhist
+*~
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# ===============================================
+# Operating Systems
+# ===============================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.volumes
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+
+# ===============================================
+# Logs and Debug Files
+# ===============================================
+*.log
+*.log.*
+logs/
+log/
+debug.log
+error.log
+access.log
+*.debug
+*.trace
+
+# ===============================================
+# Database Files
+# ===============================================
+*.db
+*.sqlite
+*.sqlite3
+*.mdb
+*.accdb
+*.dbf
+database.sql
+*.sql.gz
+
+# ===============================================
+# Backup Files
+# ===============================================
+*.bak
+*.backup
+*.old
+*.orig
+*.save
+*.tmp
+*_backup.*
+*_copy.*
+
+# ===============================================
+# Package files
+# ===============================================
+*.tar.gz
+*.zip
+*.rar
+*.7z
+*.dmg
+*.iso
+*.pkg
+*.rpm
+*.deb
+
+# ===============================================
+# Data Files (if contains sensitive info)
+# ===============================================
+# Uncomment if your data files contain sensitive information
+# data/
+# *.csv
+# *.json
+# *.xml
+# *.xlsx
+# *.xls
+# data.csv
+# data.json
+
+# ===============================================
+# Machine Learning Models (if large/sensitive)
+# ===============================================
+*.model
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.pb
+*.pt
+*.pth
+*.ckpt
+models/
+checkpoints/
+
+# ===============================================
+# Cache Directories
+# ===============================================
+.cache/
+.cache/*
+.parquet-cache/
+temp/
+tmp/
+
+# ===============================================
+# Security Scan Tools
+# ===============================================
+bandit.log
+safety-report.txt
+security-scan.txt
+
+# ===============================================
+# Documentation with embedded secrets
+# ===============================================
+docs/_build/
+site/

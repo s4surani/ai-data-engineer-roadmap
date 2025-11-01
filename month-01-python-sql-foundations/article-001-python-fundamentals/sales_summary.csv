@@ -1,0 +1,6 @@
+product,quantity,revenue,order_count,avg_order_value
+Laptop,6,450000,3,150000.0
+Monitor,3,75000,2,37500.0
+Keyboard,8,12000,2,6000.0
+Headphones,4,8000,1,8000.0
+Mouse,15,7500,2,3750.0

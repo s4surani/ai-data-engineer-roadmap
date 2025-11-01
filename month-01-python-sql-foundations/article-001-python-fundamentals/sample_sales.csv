@@ -1,0 +1,11 @@
+date,product,category,quantity,price,customer_id,region
+2025-01-01,Laptop,Electronics,2,75000,C001,West
+2025-01-01,Mouse,Electronics,5,500,C002,East
+2025-01-02,Keyboard,Electronics,3,1500,C003,North
+2025-01-02,Monitor,Electronics,1,25000,C001,West
+2025-01-03,Laptop,Electronics,1,75000,C004,South
+2025-01-03,Headphones,Electronics,4,2000,C005,East
+2025-01-04,Mouse,Electronics,10,500,C006,North
+2025-01-04,Laptop,Electronics,3,75000,C007,West
+2025-01-05,Monitor,Electronics,2,25000,C008,South
+2025-01-05,Keyboard,Electronics,5,1500,C009,East
