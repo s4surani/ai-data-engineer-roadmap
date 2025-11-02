@@ -1,0 +1,16 @@
+======================================================================
+DATA VALIDATION REPORT
+======================================================================
+
+Timestamp: 2025-11-02 14:54:42
+Total Records: 10
+Valid Records: 5
+Invalid Records: 5
+Warnings: 2
+
+ERRORS:
+  Record #2: Price below minimum: ₹-500
+  Record #3: Missing required field: product
+  Record #4: Invalid customer ID format: INVALID
+  Record #5: Invalid region: InvalidRegion
+  Record #10: Price above maximum: ₹1,200,000

@@ -1,0 +1,6 @@
+product,price,quantity,customer_id,region
+Laptop,75000,2,C001,West
+Headphones,2000,4,C006,West
+Webcam,3500,2,C007,East
+Speaker,5000,15000,C008,North
+Tablet,45000,1,C009,South

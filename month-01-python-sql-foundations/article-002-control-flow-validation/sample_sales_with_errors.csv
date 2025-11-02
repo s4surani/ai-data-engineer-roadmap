@@ -1,0 +1,6 @@
+date,product,price,quantity,customer_id,region
+2025-01-01,Laptop,75000,2,C001,West
+2025-01-02,Mouse,-500,5,C002,East
+2025-01-03,,1500,0,C003,North
+2025-01-04,Monitor,25000,1,,South
+2025-01-05,Keyboard,1500,3,C005,West

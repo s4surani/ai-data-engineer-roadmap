@@ -1,0 +1,6 @@
+product,price,quantity,customer_id,region,record_num,errors
+Mouse,-500,5,C002,East,2,['Price below minimum: ₹-500']
+,1500,0,C003,North,3,['Missing required field: product']
+Monitor,25000,1,INVALID,South,4,['Invalid customer ID format: INVALID']
+Keyboard,1500,3,C005,InvalidRegion,5,['Invalid region: InvalidRegion']
+Phone,1200000,2,C010,West,10,"['Price above maximum: ₹1,200,000']"
