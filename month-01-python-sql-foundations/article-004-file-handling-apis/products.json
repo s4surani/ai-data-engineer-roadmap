@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 75000,
+    "category": "Electronics",
+    "in_stock": true,
+    "tags": [
+      "computer",
+      "portable",
+      "work"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Mouse",
+    "price": 500,
+    "category": "Electronics",
+    "in_stock": true,
+    "tags": [
+      "computer",
+      "accessory"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Keyboard",
+    "price": 1500,
+    "category": "Electronics",
+    "in_stock": false,
+    "tags": [
+      "computer",
+      "accessory",
+      "mechanical"
+    ]
+  }
+]

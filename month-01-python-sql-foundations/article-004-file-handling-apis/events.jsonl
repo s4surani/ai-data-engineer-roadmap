@@ -1,0 +1,3 @@
+{"timestamp": "2025-01-01T10:00:00", "event": "login", "user_id": "U001"}
+{"timestamp": "2025-01-01T10:05:00", "event": "purchase", "user_id": "U001", "amount": 1500}
+{"timestamp": "2025-01-01T10:10:00", "event": "logout", "user_id": "U001"}

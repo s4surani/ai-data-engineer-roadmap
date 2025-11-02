@@ -1,0 +1,18 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "name": "sales_db",
+    "user": "admin"
+  },
+  "api": {
+    "base_url": "https://api.example.com",
+    "timeout": 30,
+    "retry_attempts": 3
+  },
+  "features": {
+    "enable_caching": true,
+    "enable_logging": true,
+    "log_level": "INFO"
+  }
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Christof",
+      "last": "Roux"
+    },
+    "location": {
+      "street": {
+        "number": 1286,
+        "name": "Rue de Cuire"
+      },
+      "city": "Zug",
+      "state": "Glarus",
+      "country": "Switzerland",
+      "postcode": 2142,
+      "coordinates": {
+        "latitude": "-55.8261",
+        "longitude": "-120.5497"
+      },
+      "timezone": {
+        "offset": "-10:00",
+        "description": "Hawaii"
+      }
+    },
+    "email": "christof.roux@example.com",
+    "login": {
+      "uuid": "2f127f58-3c3f-4383-9069-314426a8e7a3",
+      "username": "happymeercat295",
+      "password": "55bgates",
+      "salt": "lUo8lHmK",
+      "md5": "c3e263e9d4e597b8b9a8e4178d9db55f",
+      "sha1": "65ac440e41e54c288dae51693665930af2168168",
+      "sha256": "f2a0b75b4a550950e389a3fac31f872a15e31f176503332371bd8ba50b451498"
+    },
+    "dob": {
+      "date": "1949-01-31T11:46:15.529Z",
+      "age": 76
+    },
+    "registered": {
+      "date": "2007-11-28T12:40:29.577Z",
+      "age": 17
+    },
+    "phone": "077 659 46 29",
+    "cell": "075 645 27 46",
+    "id": {
+      "name": "AVS",
+      "value": "756.5540.8827.89"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/26.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/26.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
+    },
+    "nat": "CH"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Ms",
+      "first": "Debbie",
+      "last": "Nichols"
+    },
+    "location": {
+      "street": {
+        "number": 9903,
+        "name": "Main Street"
+      },
+      "city": "Kilkenny",
+      "state": "Kerry",
+      "country": "Ireland",
+      "postcode": 78674,
+      "coordinates": {
+        "latitude": "89.7339",
+        "longitude": "-143.6334"
+      },
+      "timezone": {
+        "offset": "+2:00",
+        "description": "Kaliningrad, South Africa"
+      }
+    },
+    "email": "debbie.nichols@example.com",
+    "login": {
+      "uuid": "a693b7a9-961c-4d4c-9e8b-4ad8f675cd45",
+      "username": "goldenpeacock985",
+      "password": "zombie",
+      "salt": "3qtXh4UD",
+      "md5": "4b002b47e08954802f502f95f9bc549e",
+      "sha1": "8aa0978a5ed1666b0d63af77b8b633266df82759",
+      "sha256": "41f1d15421dac33fa7cb3fc5991bdc77628a88617344b3546a49c7b420d40fcd"
+    },
+    "dob": {
+      "date": "1966-05-09T05:46:59.653Z",
+      "age": 59
+    },
+    "registered": {
+      "date": "2015-01-18T07:23:38.070Z",
+      "age": 10
+    },
+    "phone": "011-902-9013",
+    "cell": "081-224-6249",
+    "id": {
+      "name": "PPS",
+      "value": "1351298T"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/58.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/58.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/58.jpg"
+    },
+    "nat": "IE"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Kuzey",
+      "last": "Aydan"
+    },
+    "location": {
+      "street": {
+        "number": 8165,
+        "name": "Fatih Sultan Mehmet Cd"
+      },
+      "city": "Adana",
+      "state": "Ordu",
+      "country": "Turkey",
+      "postcode": 66409,
+      "coordinates": {
+        "latitude": "53.8225",
+        "longitude": "-138.0769"
+      },
+      "timezone": {
+        "offset": "+9:00",
+        "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      }
+    },
+    "email": "kuzey.aydan@example.com",
+    "login": {
+      "uuid": "eb7f4cf6-a91f-404f-9253-37b47e25913e",
+      "username": "orangezebra951",
+      "password": "bbking",
+      "salt": "nuFcf5Z2",
+      "md5": "3f5f002f69ef9ff1fb22814e3f917fd3",
+      "sha1": "dea75b840a789f74f87487670b31d3bf68d3608b",
+      "sha256": "d57cb52629933238a2ffba979cd935ebde1b9a671a8e418205e44ee207170525"
+    },
+    "dob": {
+      "date": "1947-08-12T02:46:43.018Z",
+      "age": 78
+    },
+    "registered": {
+      "date": "2020-05-04T19:08:51.381Z",
+      "age": 5
+    },
+    "phone": "(759)-250-1191",
+    "cell": "(259)-165-1435",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/73.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
+    },
+    "nat": "TR"
+  }
+]

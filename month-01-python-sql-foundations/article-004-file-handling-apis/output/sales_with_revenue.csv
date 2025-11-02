@@ -1,0 +1,6 @@
+date,product,category,price,quantity,customer_id,region,revenue
+2025-01-01,Laptop,Electronics,75000,2,C001,West,150000
+2025-01-02,Mouse,Electronics,500,10,C002,East,5000
+2025-01-03,Keyboard,Electronics,1500,5,C003,North,7500
+2025-01-04,Monitor,Electronics,25000,1,C004,South,25000
+2025-01-05,Headphones,Electronics,2000,4,C005,West,8000

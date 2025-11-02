@@ -1,0 +1,27 @@
+{
+  "latitude": 18.625,
+  "longitude": 74.0,
+  "generationtime_ms": 0.058531761169433594,
+  "utc_offset_seconds": 19800,
+  "timezone": "Asia/Kolkata",
+  "timezone_abbreviation": "GMT+5:30",
+  "elevation": 561.0,
+  "current_weather_units": {
+    "time": "iso8601",
+    "interval": "seconds",
+    "temperature": "°C",
+    "windspeed": "km/h",
+    "winddirection": "°",
+    "is_day": "",
+    "weathercode": "wmo code"
+  },
+  "current_weather": {
+    "time": "2025-11-02T17:00",
+    "interval": 900,
+    "temperature": 25.5,
+    "windspeed": 9.4,
+    "winddirection": 274,
+    "is_day": 1,
+    "weathercode": 80
+  }
+}
