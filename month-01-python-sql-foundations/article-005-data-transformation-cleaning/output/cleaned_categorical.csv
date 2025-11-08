@@ -1,0 +1,9 @@
+customer_id,name,email,phone,age,salary,city,purchase_amount,city_mode_filled,name_filled,email_filled,city_with_missing
+C001,Mayurkumar Surani,mayur@example.com,9876543210,28.0,1200000.0,Pune,50000.0,Pune,Mayurkumar Surani,mayur@example.com,Pune
+C002,Rahul Sharma,,8765432109,35.0,900000.0,Mumbai,,Mumbai,Rahul Sharma,,Mumbai
+C003,,priya@example.com,,,,Bangalore,75000.0,Bangalore,Unknown Customer,priya@example.com,Bangalore
+C004,Priya Patel,amit@example.com,7654321098,42.0,1500000.0,,120000.0,Mumbai,Priya Patel,amit@example.com,Missing
+C005,,,,25.0,800000.0,Pune,,Pune,,,Pune
+C006,Amit Kumar,sneha@example.com,6543210987,,,Delhi,85000.0,Delhi,Amit Kumar,sneha@example.com,Delhi
+C007,Sneha Desai,invalid,5432109876,31.0,1100000.0,,95000.0,,Sneha Desai,invalid,
+C008,,,,29.0,950000.0,Mumbai,110000.0,Mumbai,Unknown Customer,,Mumbai

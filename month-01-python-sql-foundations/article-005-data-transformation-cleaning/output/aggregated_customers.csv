@@ -1,0 +1,6 @@
+customer_id,name,email,phone,purchase_count,total_amount,avg_amount,max_amount
+C001,Mayurkumar Surani,mayur@example.com,9876543210,2,100000,50000.0,50000
+C002,Rahul Sharma,rahul@example.com,8765432109,1,75000,75000.0,75000
+C003,Priya Patel,priya@example.com,7654321098,3,335000,111666.66666666667,120000
+C004,Amit Kumar,amit@example.com,6543210987,1,85000,85000.0,85000
+C005,Sneha Desai,sneha@example.com,5432109876,2,220000,110000.0,110000

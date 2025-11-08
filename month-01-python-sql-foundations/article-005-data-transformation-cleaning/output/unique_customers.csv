@@ -1,0 +1,6 @@
+customer_id,name,email,phone,purchase_date,amount
+C001,Mayurkumar Surani,mayur@example.com,9876543210,2025-01-01,50000
+C002,Rahul Sharma,rahul@example.com,8765432109,2025-01-02,75000
+C003,Priya Patel,priya@example.com,7654321098,2025-01-03,120000
+C004,Amit Kumar,amit@example.com,6543210987,2025-01-05,85000
+C005,Sneha Desai,sneha@example.com,5432109876,2025-01-06,110000

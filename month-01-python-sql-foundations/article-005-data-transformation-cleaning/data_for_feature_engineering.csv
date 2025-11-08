@@ -1,0 +1,51 @@
+customer_id,name,age,salary,purchase_date,purchase_amount,product_category,city,payment_method
+C001,Mayurkumar Surani,58,960337,2024-01-07,13561,Clothing,Pune,Credit Card
+C002,Rahul Sharma,48,1305889,2024-01-14,36854,Clothing,Pune,UPI
+C003,Priya Patel,34,708261,2024-01-21,74505,Books,Pune,Cash
+C004,Mayurkumar Surani,27,1889673,2024-01-28,62251,Home,Delhi,Cash
+C005,Rahul Sharma,40,1863715,2024-02-04,32662,Clothing,Pune,UPI
+C006,Priya Patel,58,1720405,2024-02-11,18392,Books,Bangalore,Cash
+C007,Mayurkumar Surani,38,771836,2024-02-18,40535,Home,Pune,UPI
+C008,Rahul Sharma,42,1987550,2024-02-25,88603,Electronics,Mumbai,Debit Card
+C009,Priya Patel,30,1489913,2024-03-03,62256,Books,Mumbai,UPI
+C010,Mayurkumar Surani,30,702283,2024-03-10,99135,Clothing,Delhi,UPI
+C011,Rahul Sharma,43,696769,2024-03-17,45222,Electronics,Mumbai,UPI
+C012,Priya Patel,55,1061353,2024-03-24,87373,Electronics,Bangalore,Cash
+C013,Mayurkumar Surani,59,1771741,2024-03-31,89575,Electronics,Pune,Cash
+C014,Rahul Sharma,43,1546797,2024-04-07,94651,Books,Delhi,UPI
+C015,Priya Patel,22,1450110,2024-04-14,73335,Clothing,Pune,Cash
+C016,Mayurkumar Surani,41,987879,2024-04-21,20965,Electronics,Pune,Credit Card
+C017,Rahul Sharma,21,1064685,2024-04-28,34538,Home,Bangalore,Credit Card
+C018,Priya Patel,43,1282038,2024-05-05,80592,Electronics,Mumbai,Cash
+C019,Mayurkumar Surani,49,1902107,2024-05-12,18110,Electronics,Mumbai,Cash
+C020,Rahul Sharma,57,1811736,2024-05-19,89309,Books,Pune,UPI
+C021,Priya Patel,21,1507293,2024-05-26,37266,Books,Delhi,Debit Card
+C022,Mayurkumar Surani,40,1079879,2024-06-02,62992,Clothing,Mumbai,Cash
+C023,Rahul Sharma,52,1769460,2024-06-09,92948,Home,Delhi,Credit Card
+C024,Priya Patel,31,523247,2024-06-16,16910,Books,Mumbai,UPI
+C025,Mayurkumar Surani,41,1572876,2024-06-23,10206,Electronics,Delhi,Cash
+C026,Rahul Sharma,44,1107086,2024-06-30,97054,Clothing,Bangalore,Credit Card
+C027,Priya Patel,46,1033556,2024-07-07,97897,Electronics,Delhi,Credit Card
+C028,Mayurkumar Surani,47,1897527,2024-07-14,33419,Electronics,Bangalore,Debit Card
+C029,Rahul Sharma,35,1822905,2024-07-21,60636,Books,Bangalore,UPI
+C030,Priya Patel,34,1242139,2024-07-28,60015,Clothing,Delhi,UPI
+C031,Mayurkumar Surani,22,932315,2024-08-04,64268,Home,Bangalore,Debit Card
+C032,Rahul Sharma,56,1426075,2024-08-11,97939,Home,Pune,Debit Card
+C033,Priya Patel,26,1016588,2024-08-18,28141,Books,Bangalore,UPI
+C034,Mayurkumar Surani,40,1785160,2024-08-25,90356,Books,Mumbai,UPI
+C035,Rahul Sharma,28,1478732,2024-09-01,81910,Clothing,Delhi,Cash
+C036,Priya Patel,58,1925472,2024-09-08,66044,Home,Pune,Cash
+C037,Mayurkumar Surani,37,548984,2024-09-15,77214,Home,Delhi,Debit Card
+C038,Rahul Sharma,23,802918,2024-09-22,43827,Home,Mumbai,Cash
+C039,Priya Patel,44,764712,2024-09-29,65820,Electronics,Mumbai,Credit Card
+C040,Mayurkumar Surani,33,1668727,2024-10-06,72623,Home,Mumbai,Cash
+C041,Rahul Sharma,28,633767,2024-10-13,91734,Electronics,Bangalore,Cash
+C042,Priya Patel,45,1148663,2024-10-20,85450,Clothing,Bangalore,Credit Card
+C043,Mayurkumar Surani,21,636330,2024-10-27,32299,Electronics,Delhi,Debit Card
+C044,Rahul Sharma,39,980754,2024-11-03,53585,Clothing,Delhi,Credit Card
+C045,Priya Patel,47,1850224,2024-11-10,74044,Home,Pune,Cash
+C046,Mayurkumar Surani,26,513986,2024-11-17,52557,Home,Pune,Debit Card
+C047,Rahul Sharma,27,1086146,2024-11-24,59080,Clothing,Delhi,Cash
+C048,Priya Patel,54,1677888,2024-12-01,12693,Books,Bangalore,Credit Card
+C049,Amit Kumar,33,512666,2024-12-08,79163,Clothing,Mumbai,Credit Card
+C050,Sneha Desai,36,1849380,2024-12-15,35939,Books,Delhi,Cash
