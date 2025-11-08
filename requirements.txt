@@ -12,5 +12,7 @@ pytest
 beautifulsoup4
 lxml
 jupyterlab
-notebook    
+notebook
 plotly
+scipy
+colorama

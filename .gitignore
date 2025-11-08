@@ -367,4 +367,4 @@ security-scan.txt
 # Documentation with embedded secrets
 # ===============================================
 docs/_build/
-site/
+site/.env
